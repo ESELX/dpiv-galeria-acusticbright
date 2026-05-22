@@ -21,11 +21,12 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome           |
+| ------- | -------------- |
+| 2024345 | Clara Ferreira |
+| 2024331 | Henrique Vera  |
+| 2024288 | João Mourão    |
+| 2024300 | Madalena Couto |
 
 ---
 
