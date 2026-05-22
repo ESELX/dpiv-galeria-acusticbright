@@ -4,8 +4,8 @@ icon: lucide/users
 tags: galeria
 status: working-i-promise
 hero_image: attachments/hero.jpg
-hero_title: Pó Pó
-hero_subtitle: Carrinhos de Madeira
+hero_title: Contador de Histórias
+hero_subtitle: Clara Ferreira, Henrique Vera, João Mourão e Madalena Couto
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
