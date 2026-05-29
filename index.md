@@ -65,6 +65,11 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>João Mourão</p>
   </a>
 
+  <a class="gallery-card" href="produtos/_clara/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>As sombras</h3>
+    <p>Clara Ferreira</p>
+  </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>
