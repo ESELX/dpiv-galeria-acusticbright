@@ -59,6 +59,12 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Nome do Aluno</p>
   </a>
 
+  <a class="gallery-card" href="produtos/_joao/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Cenário em Grelha</h3>
+    <p>João Mourão</p>
+  </a>
+
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>
