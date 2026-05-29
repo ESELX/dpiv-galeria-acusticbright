@@ -1,9 +1,9 @@
 ---
-title: NESTOR CHaJaM
+title: Contador de Histórias
 icon: lucide/users
 tags: galeria
 status: working-i-promise
-hero_image: attachments/hero.jpg
+hero_image: attachments/hero.png
 hero_title: Contador de Histórias
 hero_subtitle: Clara Ferreira, Henrique Vera, João Mourão e Madalena Couto
 hero_height: 100vh
@@ -15,7 +15,7 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
+# Contador de Histórias
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
