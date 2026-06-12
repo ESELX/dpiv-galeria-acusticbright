@@ -26,7 +26,7 @@ student_number: ""
 Um cenário com um esquema similar a uma grelha, suportando a inserção de personagens e obejtos nas suas ranhuras. Inclui personagens com a entrada necessária para a ranhura do cenário.
 
 ![697](attachments/placeholder.png)
-%% Renderização dos Componentes do Cenário (Fusion 360)  %%
+>Renderização dos Componentes do Cenário (Fusion 360)
 ## Enquadramento
 
 Seguindo o nosso tema coletivo de brinquedos focados na criação de histórias e imaginação das crianças, decidimo-nos focar com este produto na criação dos cenários dessas mesmas histórias, permitindo ao utilizador imaginar os seus próprios cenários através das peças disponíveis.
@@ -43,12 +43,14 @@ Para a fabricação deste produto, optámos pelo corte e escultura de placas de 
 ###### Processo de Fabrico:
 Como mencionado anteriormente, o produto seria obtido através da escultura e corte numa fresa CNC. Após o corte inicial para obter as medidas do cenário, seria necessário esculpir a forma da mesma, incluindo o pino para o encaixe das peças adicionais que formam as ranhuras pretendidas. Essas peças são simples paralelipipedos, conseguidos através do corte da placa, esculpindo apenas o buraco onde se irá inserir o pino. São necessárias várias peças iguais, para criar o efeito de grelha. A imagem abaixo ilustra o processo de montagem necessário:
 ![](attachments/placeholder.png)
-%%Processo de Montagem do Cenário%%
+>Processo de Montagem do Cenário
 
 A fabricação das personagens e objetos do cenário é bastante mais simples, apenas sendo necessário cortar a placa de madeira seguindo a forma das mesmas.
 ###### Modelo 3D:
 [Modelo 3D](https://a360.co/4uAXZwf) 
 
+###### Ficheiro:
+`attachments\modelojoao.f3d`
 ## Função
 
 ###### Como se Brinca:

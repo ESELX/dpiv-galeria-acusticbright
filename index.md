@@ -4,8 +4,8 @@ icon: lucide/users
 tags: galeria
 status: working-i-promise
 hero_image: attachments/hero.png
-hero_title: Contador de Histórias
-hero_subtitle: Clara Ferreira, Henrique Vera, João Mourão e Madalena Couto
+hero_title: NESTOR - Contador de Histórias
+hero_subtitle: Deixa a Imaginação Fluir!
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
@@ -32,11 +32,7 @@ group_number: ""
 
 ## Contexto de Design
 ![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
-
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
-
-Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
+> A temática principal dos nossos projetos foi a criação de histórias através da brincadeira e interação com brinquedos. Para esse efeito, desenvolvemos projetos que puxam pela criatividade das crianças e as desafiam a criar narrativas.
 
 [Ver contexto completo →](contexto.md)
 
@@ -53,10 +49,10 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+  <a class="gallery-card" href="produtos/_madalena_/">
+    <img src="produtos/_madalena/attachments/hero.jpg" alt="" />
+    <h3>Livro de Madeira</h3>
+    <p>Madalena Couto</p>
   </a>
 
   <a class="gallery-card" href="produtos/_joao/">
@@ -66,8 +62,8 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   </a>
 
   <a class="gallery-card" href="produtos/_clara/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>As sombras</h3>
+    <img src="produtos/_clara/attachments/hero.jpg" alt="" />
+    <h3>As Sombras</h3>
     <p>Clara Ferreira</p>
   </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
