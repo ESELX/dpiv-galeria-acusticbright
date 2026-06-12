@@ -3,7 +3,7 @@ title: Cenário em Grelha
 icon: lucide/box
 tags: galeria
 status: working-i-promise
-hero_image: attachments/hero.jpg
+hero_image: attachments/hero.png
 hero_title: Cenário em Grelha
 hero_subtitle: João Mourão · 2025-26
 hero_height: 80vh
@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Cenário em Grelha
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -41,7 +41,7 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- [Modelo 3D:](https://a360.co/4uAXZwf) 
 - Ficheiros: `attachments/`
 
 ## Função
