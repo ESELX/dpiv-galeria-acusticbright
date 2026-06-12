@@ -23,13 +23,10 @@ student_number: ""
 > Um cenário em grelha onde se pode movimentar as personagens.
 
 ## Conceito
-Um cenário com um esquema similar a uma grelha, suportando a inserção de personagens e obejtos nas suas ranhuras. Inclui personagens com a entrada necessária para a ranhura do cenário, sendo simples na sua forma, de modo a que a criança imagine e crie as suas próprias brincadeiras. Isto aplica-se também aos objetos incluidos no conjunto, que representam objetos e estruturas comuns.
+Um cenário com um esquema similar a uma grelha, suportando a inserção de personagens e obejtos nas suas ranhuras. Inclui personagens com a entrada necessária para a ranhura do cenário.
 
 ![697](attachments/placeholder.png)
 %% Renderização dos Componentes do Cenário (Fusion 360)  %%
-
-**Público-Alvo:**
-- **Crianças (4-9 anos) -** Consideramos que este produto requer a habilidade motora de uma criança mais nova, já que necessita que esta seja capaz de inserir as personagens nas ranhuras. Com este grupo etário, focamo-nos na fase da infância em que a criança está a desenvolver a sua criatividade, a habilidade necessária para a interação pretendida.
 ## Enquadramento
 
 Seguindo o nosso tema coletivo de brinquedos focados na criação de histórias e imaginação das crianças, decidimo-nos focar com este produto na criação dos cenários dessas mesmas histórias, permitindo ao utilizador imaginar os seus próprios cenários através das peças disponíveis.
@@ -40,19 +37,31 @@ A nossa principal inspiração com este produto são os famosos conjuntos de cen
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+###### Materiais:
+Para a fabricação deste produto, optámos pelo corte e escultura de placas de madeira através de uma fresa CNC. As madeiras escolhidas foram a **madeira de faia** e de **nogueira**. A madeira de faia seria utilizada para a placa principal e a de nogueira para os objetos a inserir. Deste modo, devido à cor natural das madeiras, cria-se um contraste visual que realça os elementos a inserir no cenário.
 
-- Modelo 3D:
+###### Processo de Fabrico:
+Como mencionado anteriormente, o produto seria obtido através da escultura e corte numa fresa CNC. Após o corte inicial para obter as medidas do cenário, seria necessário esculpir a forma da mesma, incluindo o pino para o encaixe das peças adicionais que formam as ranhuras pretendidas. Essas peças são simples paralelipipedos, conseguidos através do corte da placa, esculpindo apenas o buraco onde se irá inserir o pino. São necessárias várias peças iguais, para criar o efeito de grelha. A imagem abaixo ilustra o processo de montagem necessário:
+![](attachments/placeholder.png)
+%%Processo de Montagem do Cenário%%
+
+A fabricação das personagens e objetos do cenário é bastante mais simples, apenas sendo necessário cortar a placa de madeira seguindo a forma das mesmas.
+###### Modelo 3D:
 [Modelo 3D](https://a360.co/4uAXZwf) 
-- Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+###### Como se Brinca:
+Através da combinação e disposição peças disponíveis, a criança é convidada a construir os seus próprios ambientes e a imaginar e criar histórias.
+O brinquedo não possui um objetivo ou regras, incentivando a exploração e a criatividade. Ao reorganizar constantemente os elementos disponíveis, a criança pode criar novos cenários e representar interações entre personagens, promovendo o pensamento criativo.
+
+###### Público-Alvo:
+**Crianças (4-9 anos) -** Consideramos que este produto requer a habilidade motora de uma criança mais nova, já que necessita que esta seja capaz de inserir as personagens nas ranhuras. Com este grupo etário, focamo-nos na fase da infância em que a criança está a desenvolver a sua criatividade, a habilidade necessária para a interação pretendida.
+
+###### Conformidade com a Diretiva 2009/48/CE:
+O produto foi desenvolvido tendo em consideração os princípios gerais de segurança estabelecidos pela Diretiva 2009/48/CE relativa à segurança dos brinquedos. A sua construção em madeira de faia e nogueira, a ausência de componentes mecânicos complexos, elétricos ou magnéticos e a utilização de peças com geometria simples contribuem para uma utilização segura. As arestas arredondadas, o acabamento lixado e as dimensões adequadas dos elementos minimizam os riscos de corte, perfuração e asfixia. O brinquedo destina-se a crianças entre os 4 e os 8 anos, faixa etária compatível com as capacidades motoras e cognitivas necessárias para a sua utilização.
 
 ## Apresentação
-
-Imagens-chave que sintetizam o produto final.
 
 ![](attachments/placeholder.png)
 ![](attachments/placeholder.png)
@@ -60,7 +69,4 @@ Imagens-chave que sintetizam o produto final.
 ---
 
 ## Processo
-
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](produtos/_joao/processo.md), organizado do **mais recente** para o **mais antigo**.
-
 [Ver processo completo →](produtos/_joao/processo.md)
