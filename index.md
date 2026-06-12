@@ -60,7 +60,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   </a>
 
   <a class="gallery-card" href="produtos/_joao/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <img src="produtos/_joao/attachments/hero.png" alt="" />
     <h3>Cenário em Grelha</h3>
     <p>João Mourão</p>
   </a>
