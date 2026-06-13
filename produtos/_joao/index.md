@@ -66,7 +66,7 @@ O produto foi desenvolvido tendo em consideração os princípios gerais de segu
 ## Apresentação
 
 ![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/brincadeira.png)
 
 ---
 
