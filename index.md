@@ -49,7 +49,7 @@ group_number: ""
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_madalena_/">
+  <a class="gallery-card" href="produtos/_madalena/">
     <img src="produtos/_madalena/attachments/hero.jpg" alt="" />
     <h3>Livro de Madeira</h3>
     <p>Madalena Couto</p>
