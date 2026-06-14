@@ -2,7 +2,7 @@
 title: Processo
 icon: lucide/git-branch
 tags: galeria
-status: working-i-promise
+status: finished
 hero_image: ../attachments/hero.png
 hero_title: Processo
 hero_subtitle: Iterações, modelos, pesquisa
@@ -25,20 +25,10 @@ O processo de obter o modelo final passou por várias iterações. O maior desaf
 ![](attachments/modelo1.png)
 >Primeiro modelo experimental, feito para testar a viabilidade do tipo de encaixe.
 ## Esboços e Pranchas-Resumo
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
-![](attachments/placeholder.png)
-
+![](attachments/prancharesumo.png)
+>Prancha-Resumo com Esboços
 ## Pesquisa
 
-### Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](attachments/placeholder.png)
-
-### Objetos de referencia
-
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
+### Aspectos Valorizados do Moodboard:
+![](moodboard.PNG)
+Baseando-me no moodboard do grupo, tentei criar um brinquedo que se baseasse num sólido geométrico básico, utilizando madeiras de diferentes tons para criar contraste visual.

@@ -17,7 +17,7 @@ group_number: ""
 
 # Contador de Histórias
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Com os nossos brinquedos, as crianças desenvolvem a sua imaginação e criatividade através da criação de histórias.
 
 ## Elementos do Grupo
 
@@ -31,7 +31,7 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
+![](attachments/brinquedos.png)
 > A temática principal dos nossos projetos foi a criação de histórias através da brincadeira e interação com brinquedos. Para esse efeito, desenvolvemos projetos que puxam pela criatividade das crianças e as desafiam a criar narrativas.
 
 [Ver contexto completo →](contexto.md)

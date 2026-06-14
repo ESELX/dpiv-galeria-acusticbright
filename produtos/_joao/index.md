@@ -2,7 +2,7 @@
 title: Cenário em Grelha
 icon: lucide/box
 tags: galeria
-status: working-i-promise
+status: finished
 hero_image: attachments/hero.png
 hero_title: Cenário em Grelha
 hero_subtitle: João Mourão · 2025-26
@@ -65,7 +65,7 @@ O produto foi desenvolvido tendo em consideração os princípios gerais de segu
 
 ## Apresentação
 
-![](attachments/placeholder.png)
+![](attachments/apresentacao.png)
 ![](attachments/brincadeira.png)
 
 ---
