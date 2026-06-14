@@ -16,21 +16,16 @@ published: true
 
 Página explicativa do contexto, em concordância com a apresentação produzida em grupo. Componente de **grupo**.
 
-## 1. Resumo / Abstract
-
-> Máximo 500 palavras. Preferencialmente em **PT** e **EN**.
+## Resumo / Abstract
 
 ### Resumo (PT)
-
-Coloque aqui o resumo do projeto em português (máximo 500 palavras).
-
+O tema principal do nosso projeto surge do nosso gosto coletivo de criar e experienciar histórias. Com essa inspiração em mente, visámos desenvolver brinquedos que tivessem como objetivo inspirar crianças a criar as suas próprias histórias e narrativas, através do ato de brincar. A ideia é que tivessem à sua disposição personagens e cenários para as guiar nesse processo e assim desenvolver essa habilidade criativa.
 ### Abstract (EN)
-
-Place here the abstract in English (max 500 words).
+The main theme of our project stems from our collective love of creating and experimenting with stories. With this inspiration in mind, we aimed to develop toys that inspire children to create their own stories and narratives through play. The idea is that they would have characters and settings available to guide them in this process, thus developing this creative skill.
 
 ## 2. Referências Coletivas
 
-### 2.1. Recolha de Objetos a Redesenhar/Remisturar
+### Recolha de Objetos a Redesenhar/Remisturar
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
@@ -39,8 +34,6 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 - **Objeto 1** — origem / autoria / razão da escolha
 - **Objeto 2** — ...
 
-### 2.2. Moodboard
+### Moodboard
 
-Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
-
-![Moodboard](attachments/placeholder.png)
+![Moodboard](attachments/moodboard.PNG)
