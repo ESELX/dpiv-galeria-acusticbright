@@ -1,5 +1,5 @@
 ---
-title: As sombras
+title: Jogo de Sombras
 icon: lucide/box
 tags: galeria
 status: working-i-promise
@@ -14,24 +14,14 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
-
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
-
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+# Jogo de Sombras
 
 ## Conceito
+A ideia principal do brinquedo é para crianças poderem brincar com os objectos e
+fazerem jogos com as sombras e poderem imaginar e criar novos cenas com a sua
+imaginação.
 
-Ideia central do produto. O que é, para quem, porquê.
-
-![](attachments/placeholder.png)
+![](attachments/prancharesumo.png)
 
 ## Enquadramento
 
@@ -39,14 +29,17 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+#### Madeira:
+- Madeira de Pinho;
+- Madeira de Nogueira.
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
 
 ## Função
-
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+- Encaixar a placa na vertical para dar a ideia de cenário, e os brinquedos também
+encaixando da maneira que o utilizador queira;
+- Depois com uma fonte de luz, projeta as sombras para a placa vertical.
 
 ## Apresentação
 
