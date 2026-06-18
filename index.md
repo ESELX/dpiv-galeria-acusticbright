@@ -57,7 +57,7 @@ group_number: ""
   </a>
 
   <a class="gallery-card" href="produtos/_clara/">
-    <img src="produtos/_clara/attachments/hero.jpg" alt="" />
+    <img src="produtos/_clara/attachments/hero.png" alt="" />
     <h3>Jogo de Sombras</h3>
     <p>Clara Ferreira</p>
   </a>
