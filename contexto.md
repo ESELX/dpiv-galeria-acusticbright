@@ -23,17 +23,6 @@ O tema principal do nosso projeto surge do nosso gosto coletivo de criar e exper
 ### Abstract (EN)
 The main theme of our project stems from our collective love of creating and experimenting with stories. With this inspiration in mind, we aimed to develop toys that inspire children to create their own stories and narratives through play. The idea is that they would have characters and settings available to guide them in this process, thus developing this creative skill.
 
-## 2. Referências Coletivas
-
-### Recolha de Objetos a Redesenhar/Remisturar
-
-Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
-
-![Objeto 1](attachments/placeholder.png)
-
-- **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 2** — ...
-
-### Moodboard
+## Moodboard
 
 ![Moodboard](attachments/moodboard.png)
