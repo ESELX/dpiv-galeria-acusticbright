@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Livro de Histórias
 icon: lucide/box
 tags: galeria
-status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+status: finished
+hero_image: attachments/hero.png
+hero_title: Livro de Histórias
+hero_subtitle: Madalena Couto · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -14,51 +14,44 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
-
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
-
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+# Livro de Histórias
+>Um livro com várias peças que pode criar um cenário de uma história.
 
 ## Conceito
+Criação de uma história em um livro. Este livro cria a liberdade de o utilizador criar a sua história como se estivesse a sair do próprio livre em que a história existe.
 
-Ideia central do produto. O que é, para quem, porquê.
-
-![](attachments/placeholder.png)
+![](attachments/render.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+Para a continuação do tema de criar histórias, este brinquedo tem uma forma mais literal, tem a forma de um livro simples, que quando aberto tem um cenário em que o utilizador pode montar como quiser com as peças ao seu dispor.
+O brinquedo tem uma forma simples, igual a um livro de crianças, mas quando aberto apresenta um cenário men que o utilizador pode mudar como quiser, dando a liberdade de criar uma história como se estivesse a sair de um livro.
+A maior inspiração para este brinquedo foi os “livros pop-up” mas adaptando essa ideia em una estrutura mais 3D com a necessidade de se montar cada cenário mas existindo a liberdade de a modificar como cada utilizador assim deseje.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+**Materiais:** Madeira de Pinho e Nogueira
+**Processo de Fabrico:** CNC
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
-- Ficheiros: `attachments/`
+**Modelo 3D:**
+[Modelo 3D](https://a360.co/44gPwCU "https://a360.co/44gPwCU")
+Ficheiros: `attachments/TEATRO 2.f3d`
 
 ## Função
+#### Como se brinca:
+O livro é aberto e apresenta um cenário em que utilizador pode mover livremente as peças e monta-lo ao longo da história, tendo liberdade de tirar e montar qualquer peça. 
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+#### Público alvo:
+**4-9 anos** - O livro tem uma fácil intuição, no entanto requer uma uma criança mais velha para o manuseamento das peças mais pequenas.
+
+#### Conformidade com a Diretiva 2009/48/CE:
+O brinquedo foi concebido de acordo com os princípios da Diretiva 2009/48/CE, apresentando uma estrutura estável, superfícies lisas e arestas arredondadas que minimizam o risco de lesões. A sua construção em madeira e a ausência de elementos perigosos, como pontas cortantes ou componentes elétricos, contribuem para a segurança da criança durante a utilização.
 
 ## Apresentação
-
-Imagens-chave que sintetizam o produto final.
-
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/apresentacao.png)
+![](attachments/brincadeira.png)
 
 ---
 
 ## Processo
-
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](produtos/_madalena/processo.md), organizado do **mais recente** para o **mais antigo**.
-
 [Ver processo completo →](produtos/_madalena/processo.md)

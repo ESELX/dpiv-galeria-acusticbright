@@ -30,5 +30,5 @@ O processo de obter o modelo final passou por várias iterações. O maior desaf
 ## Pesquisa
 
 ### Aspectos Valorizados do Moodboard:
-![](moodboard.PNG)
+![](attachments/moodboard.png)
 Baseando-me no moodboard do grupo, tentei criar um brinquedo que se baseasse num sólido geométrico básico, utilizando madeiras de diferentes tons para criar contraste visual.

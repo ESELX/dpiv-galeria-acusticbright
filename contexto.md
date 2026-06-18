@@ -36,4 +36,4 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 ### Moodboard
 
-![Moodboard](attachments/moodboard.PNG)
+![Moodboard](attachments/moodboard.png)

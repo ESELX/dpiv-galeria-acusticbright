@@ -40,18 +40,13 @@ group_number: ""
 
 ## Galeria de Produtos
 
-<!-- Cada thumbnail liga à página individual de cada produto.
-     Cada produto vive em produtos/<numero>-<nome>/index.md
-     e tem uma sub-página produtos/<numero>-<nome>/processo.md -->
-
-<!-- markdownlint-disable MD033 -->
 <div class="gallery-grid">
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/_madalena/">
-    <img src="produtos/_madalena/attachments/hero.jpg" alt="" />
-    <h3>Livro de Madeira</h3>
+    <img src="produtos/_madalena/attachments/hero.png" alt="" />
+    <h3>Livro de Histórias</h3>
     <p>Madalena Couto</p>
   </a>
 
@@ -63,7 +58,7 @@ group_number: ""
 
   <a class="gallery-card" href="produtos/_clara/">
     <img src="produtos/_clara/attachments/hero.jpg" alt="" />
-    <h3>As Sombras</h3>
+    <h3>Jogo de Sombras</h3>
     <p>Clara Ferreira</p>
   </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
